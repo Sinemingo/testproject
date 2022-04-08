@@ -1,0 +1,2 @@
+#netcoresample
+read me
