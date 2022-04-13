@@ -1,4 +1,4 @@
-﻿namespace HelloWorld.Models
+﻿namespace HelloWorld.Services
 {
     public interface IDateTime
     {
