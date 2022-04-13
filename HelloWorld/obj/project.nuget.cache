@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Ynyw9He+PLU94Y3Kny6jykzDcgndxmCu74pRdkWei8RktTsL4Z4/2/PDJX6zdZ8gTCK6iiRerpddXTqlfIb9Sw==",
+  "dgSpecHash": "un6jceM6upI72DMDpvgx9TxCuzA+ZWdyBP2bMDz4NuDs+ULkWnnSATDuKIQDSgJ50nv30HwdcHo4Y3o+vEt2vw==",
   "success": true,
   "projectFilePath": "C:\\Users\\sinem\\source\\GitHubProject\\testproject\\HelloWorld\\HelloWorld.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sinem\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\sinem\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sinem\\.nuget\\packages\\swashbuckle.aspnetcore\\6.3.0\\swashbuckle.aspnetcore.6.3.0.nupkg.sha512",
+    "C:\\Users\\sinem\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.0\\swashbuckle.aspnetcore.swagger.6.3.0.nupkg.sha512",
+    "C:\\Users\\sinem\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.0\\swashbuckle.aspnetcore.swaggergen.6.3.0.nupkg.sha512",
+    "C:\\Users\\sinem\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.0\\swashbuckle.aspnetcore.swaggerui.6.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
