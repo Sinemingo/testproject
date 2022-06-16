@@ -1,6 +1,4 @@
-﻿using HelloWorld.Services;
-using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace HelloWorld.Controllers
 {
@@ -8,12 +6,10 @@ namespace HelloWorld.Controllers
     {
         private readonly ILogger<HomeController> _logger;
         private readonly IConfiguration _configuration;
-        private readonly IDateTime _dateTime;
 
-        public HomeController(ILogger<HomeController> logger, IDateTime dateTime,IConfiguration configuration)
+        public HomeController(ILogger<HomeController> logger, IConfiguration configuration)
         {
             _logger = logger;
-            _dateTime = dateTime;
             _configuration = configuration;
         }
 
@@ -21,7 +17,7 @@ namespace HelloWorld.Controllers
         {
             var name = _configuration["Name"];
             var lastName = _configuration["People:LastName"];
-            var serverTime = _dateTime.Now;
+            var serverTime = DateTime.Now;
             if (serverTime.Hour < 12)
             {
                 ViewData["Message"] = "Good Morning!";

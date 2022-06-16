@@ -1,0 +1,12 @@
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Data\bin\Debug\net6.0\HelloWorld.Data.deps.json
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Data\bin\Debug\net6.0\HelloWorld.Data.dll
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Data\bin\Debug\net6.0\HelloWorld.Data.pdb
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Data\obj\Debug\net6.0\HelloWorld.Data.csproj.AssemblyReference.cache
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Data\obj\Debug\net6.0\HelloWorld.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Data\obj\Debug\net6.0\HelloWorld.Data.AssemblyInfoInputs.cache
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Data\obj\Debug\net6.0\HelloWorld.Data.AssemblyInfo.cs
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Data\obj\Debug\net6.0\HelloWorld.Data.csproj.CoreCompileInputs.cache
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Data\obj\Debug\net6.0\HelloWorld.Data.dll
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Data\obj\Debug\net6.0\refint\HelloWorld.Data.dll
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Data\obj\Debug\net6.0\HelloWorld.Data.pdb
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Data\obj\Debug\net6.0\ref\HelloWorld.Data.dll
