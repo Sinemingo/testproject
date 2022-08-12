@@ -13,8 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\HelloWorld.Business\HelloWorld.Business.csproj" />
-    <ProjectReference Include="..\HelloWorld.Data\HelloWorld.Data.csproj" />
+    <ProjectReference Include="..\HelloWorldAPI\HelloWorldAPI.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 using HelloWorld.Business.Dtos;
-using HelloWorld.Data.Entities;
+using HelloWorld.Entities;
 
 namespace HelloWorld.Business.MappingProfiles;
 

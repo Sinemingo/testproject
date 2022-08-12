@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld.cs
 		{CD5A74AE-ABC5-438D-A76E-21AA85274AAE} = {CD5A74AE-ABC5-438D-A76E-21AA85274AAE}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Data", "..\HelloWorld.Data\HelloWorld.Data.csproj", "{CD5A74AE-ABC5-438D-A76E-21AA85274AAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld.Data", "..\HelloWorld.Data\HelloWorld.Data.csproj", "{CD5A74AE-ABC5-438D-A76E-21AA85274AAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Business", "..\HelloWorld.Business\HelloWorld.Business.csproj", "{9339CE6B-E5D7-4920-A1AE-0ACFF4909E2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld.Business", "..\HelloWorld.Business\HelloWorld.Business.csproj", "{9339CE6B-E5D7-4920-A1AE-0ACFF4909E2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Entities", "..\HelloWorld.Entities\HelloWorld.Entities.csproj", "{DE7F0B84-D92B-4360-8D97-9447546A2CE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldAPI", "..\HelloWorldAPI\HelloWorldAPI.csproj", "{C99E89AE-E6C9-474B-88B8-308459B4F133}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +35,14 @@ Global
 		{9339CE6B-E5D7-4920-A1AE-0ACFF4909E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9339CE6B-E5D7-4920-A1AE-0ACFF4909E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9339CE6B-E5D7-4920-A1AE-0ACFF4909E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE7F0B84-D92B-4360-8D97-9447546A2CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7F0B84-D92B-4360-8D97-9447546A2CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7F0B84-D92B-4360-8D97-9447546A2CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7F0B84-D92B-4360-8D97-9447546A2CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C99E89AE-E6C9-474B-88B8-308459B4F133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99E89AE-E6C9-474B-88B8-308459B4F133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99E89AE-E6C9-474B-88B8-308459B4F133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99E89AE-E6C9-474B-88B8-308459B4F133}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

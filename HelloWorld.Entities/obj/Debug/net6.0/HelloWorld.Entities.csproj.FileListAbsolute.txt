@@ -1,0 +1,12 @@
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Entities\bin\Debug\net6.0\HelloWorld.Entities.deps.json
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Entities\bin\Debug\net6.0\HelloWorld.Entities.dll
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Entities\bin\Debug\net6.0\HelloWorld.Entities.pdb
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Entities\obj\Debug\net6.0\HelloWorld.Entities.csproj.AssemblyReference.cache
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Entities\obj\Debug\net6.0\HelloWorld.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Entities\obj\Debug\net6.0\HelloWorld.Entities.AssemblyInfoInputs.cache
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Entities\obj\Debug\net6.0\HelloWorld.Entities.AssemblyInfo.cs
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Entities\obj\Debug\net6.0\HelloWorld.Entities.csproj.CoreCompileInputs.cache
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Entities\obj\Debug\net6.0\HelloWorld.Entities.dll
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Entities\obj\Debug\net6.0\refint\HelloWorld.Entities.dll
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Entities\obj\Debug\net6.0\HelloWorld.Entities.pdb
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Entities\obj\Debug\net6.0\ref\HelloWorld.Entities.dll

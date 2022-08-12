@@ -10,3 +10,6 @@ C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Data\obj\Debug\net6.0
 C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Data\obj\Debug\net6.0\refint\HelloWorld.Data.dll
 C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Data\obj\Debug\net6.0\HelloWorld.Data.pdb
 C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Data\obj\Debug\net6.0\ref\HelloWorld.Data.dll
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Data\bin\Debug\net6.0\HelloWorld.Entities.dll
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Data\bin\Debug\net6.0\HelloWorld.Entities.pdb
+C:\Users\sinem\source\GitHubProject\testproject\HelloWorld.Data\obj\Debug\net6.0\HelloWorld.Data.csproj.CopyComplete
